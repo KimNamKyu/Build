@@ -6,7 +6,7 @@ namespace Build
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("브리지텍 비트컴퓨터");
         }
     }
 }
